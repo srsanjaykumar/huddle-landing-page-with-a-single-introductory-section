@@ -109,6 +109,7 @@ button:hover {
     padding: 2rem 3rem;
     margin-bottom: 3rem;
     overflow: scroll;
+    height: fit-content;
   }
   section{
     width: 100%;
